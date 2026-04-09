@@ -2,7 +2,7 @@
 
 Este projeto utiliza **técnicas de Processamento de Linguagem Natural** para realizar uma análise de sentimentos ao avaliar a opinião pública durante eventos de crise, faz uma análise de mídias sociais para investigar padrões de engajamento em notícias recentes e faz uma análise textual dos conteúdos relacionados a desastres e eventos críticos.
 
- 📜 **Workflow do Projeto**
+# 📜 **Workflow do Projeto**
  
 **1.Etapa de pré-processamento do texto**
  
@@ -47,7 +47,7 @@ Este projeto utiliza **técnicas de Processamento de Linguagem Natural** para re
   4.2 Random Forest
 
 # Insights Chave
-## Nuvem de palavras
+Nuvem de palavras
 <img width="1183" height="615" alt="image" src="https://github.com/user-attachments/assets/d452dca2-3f3e-4db4-be94-f2c2e0ddb0d9" />
 
 # Resultados do Projeto:
