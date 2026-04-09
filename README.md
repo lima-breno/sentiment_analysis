@@ -51,7 +51,7 @@ Nuvem de palavras
 <img width="1183" height="615" alt="image" src="https://github.com/user-attachments/assets/d452dca2-3f3e-4db4-be94-f2c2e0ddb0d9" />
 
 # Resultados do Projeto:
-## Utilizando modelo de regressão logística:
+**Utilizando modelo de regressão logística:**
 
 O modelo conseguiu ter uma precisão de 86% para sentimentos negativos, 77% para sentimentos neutros e 75 % para sentimentos positivos, de modo geral o modelo tem uma acurácia de 80%.
 Esses resultados indicam que o modelo tem uma boa previsão para sentimetnos negativos, porém, para sentimentos neutros e positivos há dificuldades em se avaliar.
