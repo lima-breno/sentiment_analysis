@@ -4,24 +4,27 @@ Este projeto utiliza **técnicas de Processamento de Linguagem Natural** para re
 
  📜 **Workflow do Projeto**
  
-1.Etapa de pré-processamento do texto
+**1.Etapa de pré-processamento do texto**
   1.1 Remoção de línguas distintas ao inglês
   1.2 Remoção de pontuação
   1.3 Reemoção de números
   1.4 Tokenização
   1.5 Remoção de Stopwords
   1.6 Lematização
-2.Visualização do texto processado
+  
+**2.Visualização do texto processado**
   2.1 Cálculo das frequências dos termos
   2.2 Gráfico Barplot
   2.3 Nuvem de palavras
-3. Análise de sentimento
+  
+**3. Análise de sentimento**
   3.1 Definição do Rótulo de Sentimento (Variável Alvo)
   3.2 Divisão dos dados em treino e teste
   3.3 Vetorização de Texto (Transformando Texto em Números)
   3.4 Treinando o modelo com regressão logística
   3.5 Avaliação do Modelo
-4. Modelagem
+  
+**4. Modelagem**
   4.1 Regressão Logistica
   4.2 Random Forest
 
