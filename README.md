@@ -5,11 +5,17 @@ Este projeto utiliza **técnicas de Processamento de Linguagem Natural** para re
  📜 **Workflow do Projeto**
  
 **1.Etapa de pré-processamento do texto**
+ 
   1.1 Remoção de línguas distintas ao inglês
+ 
   1.2 Remoção de pontuação
+ 
   1.3 Reemoção de números
+ 
   1.4 Tokenização
+ 
   1.5 Remoção de Stopwords
+ 
   1.6 Lematização
   
 **2.Visualização do texto processado**
