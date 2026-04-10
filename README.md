@@ -58,7 +58,8 @@ Esses resultados indicam que o modelo tem uma boa previsão para sentimetnos neg
 Mas de modo geral, apresenta uma acurácia de 80% dos casos analisados.
 
 O teste de validação cruzada foi realizado de maneira a avaliar o desempenho do modelo de forma mais robusta e confiável, chegando a um score médio de 72,51%. 
-NOTA: Resultados acima de 70% para modelos de analise de sentimentos é um bom resultado principalmente devido a dificuldade de interpretar comentários.
+
+NOTA: Resultados acima de 70% para modelos de analise de sentimentos são um bom resultado principalmente devido a dificuldade de interpretar comentários.
 
 ## Conclusão:
 
